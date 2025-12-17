@@ -1,0 +1,16 @@
+# Core scientific libraries
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Notebook environment (recommended)
+jupyter
+
+# Optional (for smoother execution in some environments)
+scipy>=1.7.0
